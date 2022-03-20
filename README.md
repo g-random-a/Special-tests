@@ -29,3 +29,9 @@
 # Business Features
 * Hospital profile/Test Information 
 * Appointment 
+
+# Breif Use Cases
+
+*  As a patient (user), I want to locate clinical laboratories or hospitals that give special tests and also request appointment for the test available, so that I can access and take the test easily.  
+
+*  As a clinical laboratory (administrator), I want to let people know the different tests we offer which might not be available everywhere, so that patient can easily discover about the tests present in our hospital and reserve an appointment.
