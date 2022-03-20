@@ -4,9 +4,12 @@
  # Full name and ID of the members
  
  | No. | Full Name | ID |
-| :---:         |     :---:      |    :---:    |
-| 1   | Christina Salamon     | git status    |
-| 2     | git diff       | git diff      |
+| :---:         |     :---      |    :---:    |
+| 1   | Christina Solomon     | UGR/8231/12    |
+| 2   | Habib Gemmechu     | UGR/4012/12    |
+| 3   | Hiwot Derese     | UGR/2790/12    |
+| 4     | Ruhama Gashaw       | UGR/9496/12      |
+| 5     | Zeal Sabir       | UGR/0113/12      |
 
 # Brief description
   Special mediacal examination (ልዩ ምርመራ) is an application that provides information to users, which makes them able to find and then request an appointment to special tests available in different clinical laboratories or hospitals. These special tests may include: Fertility Test, Thyroid Hormone Test etc.  
