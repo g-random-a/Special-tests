@@ -1,5 +1,5 @@
  # project title 
- Special medical examinations (ልዩ ምርመራ)
+ Special test (ልዩ ምርመራ)
  
  # Full name and ID of the members
  
@@ -12,7 +12,7 @@
 | 5     | Zeal Sabir       | UGR/0113/12      |
 
 # Brief description
-  Special medical examination (ልዩ ምርመራ) is an application that provides information to users, which makes them able to find and then request an appointment to special tests available in different clinical laboratories or hospitals. These special tests may include: Fertility Test, Thyroid Hormone Test etc.  
+  Special test (ልዩ ምርመራ) is an application that provides information to users, which makes them able to find and then request an appointment to special tests available in different clinical laboratories or hospitals. These special tests may include: Fertility Test, Thyroid Hormone Test etc.  
 
 # Authentication/Authorization Feature
 ### login and signup functionalities
