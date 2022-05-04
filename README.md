@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  # Project Title 
  Special Tests (ልዩ ምርመራ)
  
@@ -38,3 +39,21 @@
 *  As a patient (user), I want to locate clinical laboratories or hospitals that give special tests and also request appointment for the test available, so that I can access and take the test easily.  
 
 *  As a clinical laboratory (administrator), I want to let people know the different tests we offer which might not be available everywhere, so that patient can easily discover about the tests present in our hospital and reserve an appointment.
+=======
+# special_tets_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+>>>>>>> 8ce93c9 (first commit)
