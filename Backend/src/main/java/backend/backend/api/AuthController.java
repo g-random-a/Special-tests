@@ -58,6 +58,21 @@ public class AuthController {
             return ResponseEntity.status(HttpStatus.NOT_FOUND).build();
         }
     }
+    @PostMapping("/register/hospital") //to view hospital profile
+    public ResponseEntity<User> RegisterClient(@RequestBody HospandUser hospandUser){
+        try{
+            User user = hospandUser.user;
+            Hospital hospital = hospandUser.hospital;
+            // Optional<Hospital> hospital = hospRepo.findById(id);
+            //save both client and user using their repo
+            // use transactional
+            userServ.saveUser(user);
+            hospServ.createHosp(hospital);
+            return ResponseEntity.ok().body(user);
+        } catch(Exception e){
+            return ResponseEntity.status(HttpStatus.NOT_FOUND).build();
+        }
+    }
 
     
 
