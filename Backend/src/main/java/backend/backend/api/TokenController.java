@@ -46,13 +46,10 @@ public class TokenController {
                 
                 String access_token = JWT.create()
                 .withSubject(user.getUsername())
-                .withExpiresAt(new Date(System.currentTimeMillis() + 100*60*1000))
                 .withIssuer(request.getRequestURI().toString())
                 .withClaim("roles", user.getRole().stream().map(Role::getName).collect(Collectors.toList()))
                 .sign(algorithm);
-
-                // response.setHeader("access_token", access_token);
-                // response.setHeader("refresh_token", refresh_token);
+                
                 Map <String, String> token = new HashMap<>();
                 token.put("refresh", "true");
                 token.put("access_token", access_token);
