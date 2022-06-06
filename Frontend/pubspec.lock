@@ -175,7 +175,7 @@ packages:
       name: ffi
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.2.1"
+    version: "2.0.0"
   file:
     dependency: transitive
     description:
@@ -422,7 +422,7 @@ packages:
       name: path_provider_windows
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.0.7"
+    version: "2.1.0"
   platform:
     dependency: transitive
     description:
@@ -735,7 +735,7 @@ packages:
       name: win32
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.6.1"
+    version: "2.7.0"
   xdg_directories:
     dependency: transitive
     description:
@@ -752,4 +752,4 @@ packages:
     version: "3.1.1"
 sdks:
   dart: ">=2.17.0 <3.0.0"
-  flutter: ">=2.8.1"
+  flutter: ">=3.0.0"

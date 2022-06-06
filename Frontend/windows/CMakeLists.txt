@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(special_tets_app LANGUAGES CXX)
+project(special_tests LANGUAGES CXX)
 
-set(BINARY_NAME "special_tets_app")
+set(BINARY_NAME "special_tests")
 
 cmake_policy(SET CMP0063 NEW)
 

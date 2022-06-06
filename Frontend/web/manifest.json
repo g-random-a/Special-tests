@@ -1,6 +1,6 @@
 {
-    "name": "special_tets_app",
-    "short_name": "special_tets_app",
+    "name": "special_tests",
+    "short_name": "special_tests",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
