@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.special_tets_app">
+    package="com.example.special_tests">
    <application
-        android:label="special_tets_app"
+        android:label="special_tests"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
