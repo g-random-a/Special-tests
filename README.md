@@ -1,5 +1,3 @@
-
-
 # Brief Description
   Special tests (ልዩ ምርመራ) is an application that provides information to users, which makes them able to find and then request an appointment to special tests available in different clinical laboratories or hospitals. These special tests may include: Fertility Test, Thyroid Hormone Test etc.  
 
